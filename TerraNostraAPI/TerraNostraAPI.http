@@ -1,0 +1,6 @@
+@TerraNostraAPI_HostAddress = http://localhost:5044
+
+GET {{TerraNostraAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
